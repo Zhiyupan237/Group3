@@ -23,24 +23,24 @@
 ### Mermaid
 ```mermaid
 gantt
-    title The Schedule of Communism
+    title Schedule of project
 
     section 討論專案題目
-    Task A      :active,  des1,2022-10-01  , 2022-10-02
+    討論專案題目      :active,  des1,2022-10-03  , 2022-10-04
     section 討論工作分配
-    Task B      :         des2, after des1 , 1d
+    討論工作分配      :         des2, after des1 , 1d
     section GitHub製作
-    Task C      :         des3, after des2  , 84d
+    GitHub製作     :         des3, after des2  , 84d
     section 資料蒐集與整理
-    Task D      :         des4, after des3  , 14d
+    資料蒐集與整理      :         des4, after des2  , 14d
     section 程式編寫
-    Task E      :         des5, after des4  , 49d
+    程式編寫      :         des5, after des4  , 49d
     section 程式除錯
-    Task F      :         des6, after des5  , 21d
+    程式除錯      :         des6, after des5  , 21d
     section 簡報製作
-    Task G      :         des7, after des6  , 14d
+    簡報製作      :         des7, after des5  , 14d
     section 上台報告
-    Task H      :         des8, after des7  , 1d
+    上台報告      :         des8, after des7  , 1d
 ```
 
 
