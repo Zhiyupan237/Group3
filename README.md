@@ -20,7 +20,7 @@
 |7|簡報製作|14|3、5|
 |8|上台報告|1|7|
 
-### Mermaid
+### Gantt chart
 ```mermaid
 gantt
     title Schedule of project
