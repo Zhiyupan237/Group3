@@ -26,14 +26,22 @@
 gantt
     title The Schedule of Communism
 
-    section The Beginning of Communism
-    Task A      :active,  des1,2022-10-01  , 2022-10-04
-    section Communism 2
-    Task B      :         des2, after des1 , 10d
-    section Communism 3
-    Task C      :         des3, after des2  , 10d
-    section Communism 4
-    Task D      :         des4, after des3  , 10d
+    section 討論專案題目
+    Task A      :active,  des1,2022-10-01  , 2022-10-02
+    section 討論工作分配
+    Task B      :         des2, after des1 , 1d
+    section GitHub製作
+    Task C      :         des3, after des2  , 84d
+    section 資料蒐集與整理
+    Task D      :         des4, after des3  , 14d
+    section 程式編寫
+    Task E      :         des5, after des4  , 49d
+    section 程式除錯
+    Task F      :         des6, after des5  , 21d
+    section 簡報製作
+    Task G      :         des7, after des6  , 14d
+    section 上台報告
+    Task H      :         des8, after des7  , 1d
 ```
 
 
