@@ -43,5 +43,5 @@ gantt
     上台報告      :         des8, after des7  , 1d
 ```
 ### PERT Diagram
-![PERT](https://github.com/Zhiyupan237/Group5/blob/main/PERT_schedule.png)
+
 
