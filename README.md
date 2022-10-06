@@ -20,7 +20,7 @@
 |7|簡報製作|14|3、5|
 |8|上台報告|1|7|
 
-### Gantt chart
+# Gantt chart
 ```mermaid
 gantt
     title Schedule of project
@@ -42,6 +42,6 @@ gantt
     section 上台報告
     上台報告      :         des8, after des7  , 1d
 ```
-### PERT Diagram
+# PERT Diagram
 ![PERT](https://github.com/Zhiyupan237/Group5/blob/main/PERT_schedule.png)
 
