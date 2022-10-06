@@ -38,7 +38,7 @@ gantt
     section 程式除錯
     程式除錯      :         des6, after des5  , 21d
     section 簡報製作
-    簡報製作      :         des7, after des5  , 14d
+    簡報製作      :         des7, after des3  , 14d
     section 上台報告
     上台報告      :         des8, after des7  , 1d
 ```
