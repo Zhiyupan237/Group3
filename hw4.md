@@ -1,3 +1,3 @@
-## UML 類別圖
+## UML 類別圖(class Diagram)
 
 (UML)[]
