@@ -2,10 +2,12 @@
 
 ![UML](UML.png)
 ## 活動圖(使用案例一)
-
+![Activity_Diagram_1](Activity_Diagram_1.jpg)
 ## 循序圖(使用案例一)
-
+![sequencial_diagram_1](sequencial_diagram_1.jpg)
 ## 活動圖(使用案例二)
 ![Activity_Diagram_2](Activity_Diagram_2.jpg)
 ## 循序圖(使用案例二)
 ![sequencial_diagram_2](sequencial_diagram_2.png)
+## 活動圖與循序圖(使用案例三)
+![usecase3_diagram](usecase3_diagram.jpg)
