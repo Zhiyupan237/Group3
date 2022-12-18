@@ -34,7 +34,7 @@ gantt
     section task 1
     討論專案題目       :a1, 2022-10-04, 1d
     討論工作分配     :a2,after a1  , 1d
-    github製作      :a3,after a2  , 84d
+    github製作      :a3,after a2  , 67d
     資料收集與整理    :a4,after a2  ,7d
     製作FDD與Figma   :a5,after a4  , 7d
     section task 2
