@@ -49,5 +49,5 @@ gantt
     影片製作 :a12,after a11 , 7d
 ```      
 # PERT Diagram
-![PERT](https://github.com/Zhiyupan237/Group5/blob/main/PERT_schedule.png)
+![PERT](PERT.png)
 
