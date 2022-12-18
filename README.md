@@ -47,7 +47,7 @@ gantt
     section task 4
     最後統整、簡報製作 :a11,2022-12-9 , 7d
     影片製作 :a12,after a11 , 7d
-    
+```      
 # PERT Diagram
 ![PERT](https://github.com/Zhiyupan237/Group5/blob/main/PERT_schedule.png)
 
