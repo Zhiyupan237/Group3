@@ -49,5 +49,5 @@ gantt
     影片製作 :a12,after a11 , 7d
 ```      
 # PERT Diagram
-![PERT](PERT.png)
+![PERT](PERT_schedule.png)
 
