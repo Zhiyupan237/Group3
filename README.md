@@ -21,27 +21,28 @@
 |8|上台報告|1|7|
 
 # Gantt chart
+### Mermaid
 ```mermaid
 gantt
     title Schedule of project
 
-    section Section
-    討論專案題目      :active,  des1,2022-10-03  , 2022-10-04
+    section task 1
+    討論專案題目       :a1, 2022-10-04, 1d
+    討論工作分配     :a2,after a1  , 1d
+    github製作      :a3,after a2  , 84d
+    資料收集與整理    :a4,after a2  ,7d
+    製作FDD與Figma   :a5,after a4  , 7d
+    section task 2
+    列出需求與使用案例 :a6,2022-10-19  , 7d
+    繪製DFD         :a7,after a6  , 7d
+    製作UML、循序圖與活動圖   :a8,after a7  , 7d
+    section task 3
+    製作分鏡板 :a9,2022-11-22  , 7d
+    繪製ERD :a10,after a9  , 7d
+    section task 4
+    最後統整 :a11,2022-12-9 , 7d
+    影片製作 :a12,after a11 , 7d
     
-    討論工作分配      :         des2, after des1 , 1d
-    
-    GitHub製作     :         des3, after des2  , 84d
-    
-    資料蒐集與整理      :         des4, after des2  , 14d
-    
-    程式編寫      :         des5, after des4  , 49d
-    
-    程式除錯      :         des6, after des5  , 21d
-    
-    簡報製作      :         des7, after des3  , 14d
-    
-    上台報告      :         des8, after des7  , 1d
-```
 # PERT Diagram
 ![PERT](https://github.com/Zhiyupan237/Group5/blob/main/PERT_schedule.png)
 
